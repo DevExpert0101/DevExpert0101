@@ -7,7 +7,6 @@ Artificial Intelligence + Machine Learning + Web Development
 I have been working with AI/ML/Web for over 12 years.
 
 * 🌍  I'm based in Kennadale
-* ✉️  You can contact me at [dustinwilliams0118@gmail.com](mailto:dustinwilliams0118@gmail.com)
 * 🧠  I'm learning Stable Diffusion, Large Language Model & Artificial Super Intelligence
 * 🤝  I'm open to collaborating on AI, ML, DL, Data Analytics
 
